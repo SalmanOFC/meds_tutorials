@@ -1,6 +1,6 @@
-# Hardware Project Title
+# MEDS Tutorial
 
-![Project Diagram](https://via.placeholder.com/150)  
+![Project Diagram](./docs/img.png)  
 *A brief description of the hardware project, its purpose, and functionality.*
 
 ---
@@ -13,7 +13,7 @@
 
 ## Overview
 ### Description
-This project is a **[type of hardware project, e.g., IoT Smart Plug, H.264 Encoder, etc.]** designed to perform **[main functionality]**.  
+This project is a **[type of hardware project, H.264 Encoder, etc.]** designed to perform **[main functionality]**.  
 
 ### Features
 - **Feature 1:** Precise measurement/control.
